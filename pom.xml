@@ -13,7 +13,7 @@
 	<scm>
 		<!-- Specification of the Source-Content-Managementsystem -->
 		<connection>scm:git:git//github.com/bpross-52n/release-test.git</connection>
-		<developerConnection>scm:git:ssh://git@github.com/bpross-52n/release-test.git</developerConnection>
+		<developerConnection>scm:git:ssh://github.com/bpross-52n/release-test.git</developerConnection>
 		<url>https://github.com/bpross-52n/release-test</url>
 	</scm>
 	<description>52n-Release-Test</description>
