@@ -1,7 +1,7 @@
 target/
 **/target/
 *.class
-Readme.md
+README.md
 
 # Package Files #
 *.jar
