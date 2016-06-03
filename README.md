@@ -119,8 +119,10 @@ b.pross (at) 52north.org
 # Credits
 
  * USGS
+ * ITC
+ * Institute for Geoinformatics
+ * TU Dresden
  * GSoC
  * GLUES
  * TaMIS
  * OGC Testbeds
- * ITC
