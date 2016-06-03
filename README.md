@@ -108,4 +108,9 @@ See here : [Geoprocessing Tutorials](https://wiki.52north.org/bin/view/Geoproces
 # References
 
 * [GLUES WPS](http://wps1.glues.geo.tu-dresden.de/wps/WebProcessingService?request=GetCapabilities&service=WPS) - WPS service deployed for the GLUES project.
-* * [USGS WPS](http://cida.usgs.gov/gdp/process/WebProcessingService?Service=WPS&Request=GetCapabilities) - WPS service deployed by the Center for Integrated Data Analysis of the United States Geological Survey.
+* [USGS WPS](http://cida.usgs.gov/gdp/process/WebProcessingService?Service=WPS&Request=GetCapabilities) - WPS service deployed by the Center for Integrated Data Analysis of the United States Geological Survey.
+
+# Contact
+
+Benjamin Pross
+b.pross (AT) 52north.org
