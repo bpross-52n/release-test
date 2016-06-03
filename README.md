@@ -113,4 +113,14 @@ See here : [Geoprocessing Tutorials](https://wiki.52north.org/bin/view/Geoproces
 # Contact
 
 Benjamin Pross
-b.pross (AT) 52north.org
+
+b.pross (at) 52north.org
+
+# Credits
+
+ * USGS
+ * GSoC
+ * GLUES
+ * TaMIS
+ * OGC Testbeds
+ * ITC
