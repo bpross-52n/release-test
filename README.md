@@ -104,3 +104,8 @@ See here : [Geoprocessing Tutorials](https://wiki.52north.org/bin/view/Geoproces
       * Issue #123: Admin console not working when using Tomcat 6
       * Issue #173: Databinding issue with WPS4R
       * Issue #222: Save configuration with active R backend results in duplicate algorithm entries
+
+# References
+
+* [GLUES WPS](http://wps1.glues.geo.tu-dresden.de/wps/WebProcessingService?request=GetCapabilities&service=WPS) - WPS service deployed for the GLUES project.
+* * [USGS WPS](http://cida.usgs.gov/gdp/process/WebProcessingService?Service=WPS&Request=GetCapabilities) - WPS service deployed by the Center for Integrated Data Analysis of the United States Geological Survey.
