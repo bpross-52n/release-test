@@ -2,7 +2,7 @@
 
 ## Build Status
 * Master: [![Master Build Status](https://travis-ci.org/52North/WPS.png?branch=master)](https://travis-ci.org/52North/WPS)
-* Develop: [![Develop Build Status](https://travis-ci.org/52North/WPS.png?branch=develop)](https://travis-ci.org/52North/WPS)
+* Develop: [![Develop Build Status](https://travis-ci.org/52North/WPS.png?branch=dev)](https://travis-ci.org/52North/WPS)
 
 ============
 # Description
