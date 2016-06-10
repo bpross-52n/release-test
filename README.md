@@ -1,4 +1,9 @@
-52°North WPS
+52°North WPS [![OpenHUB](https://www.openhub.net/p/n52-wps/widgets/project_thin_badge.gif)](https://www.openhub.net/p/n52-wps)
+
+## Build Status
+* Master: [![Master Build Status](https://travis-ci.org/52North/WPS.png?branch=master)](https://travis-ci.org/52North/WPS)
+* Develop: [![Develop Build Status](https://travis-ci.org/52North/WPS.png?branch=develop)](https://travis-ci.org/52North/WPS)
+
 ============
 # Description
 The 52°North Web Processing Service enables the deployment of geo-processes on the web in a standardized way. It features a pluggable architecture for processes and data encodings.
