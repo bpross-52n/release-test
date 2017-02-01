@@ -9,13 +9,14 @@
 	<artifactId>52n-release-test</artifactId>
 	<packaging>jar</packaging>
 	<name>52n-Release-Test</name>
-	<version>1.0.6-SNAPSHOT</version>
+	<version>1.0.6</version>
 	<scm>
 		<!-- Specification of the Source-Content-Managementsystem -->
 		<connection>scm:git:git://github.com/bpross-52n/release-test.git</connection>
 		<developerConnection>scm:git:ssh://git@github.com/bpross-52n/release-test.git</developerConnection>
 		<url>https://github.com/bpross-52n/release-test</url>
-    </scm>
+      <tag>v1.0.6</tag>
+  </scm>
     <distributionManagement>
         <repository>
             <id>n52-releases</id>
