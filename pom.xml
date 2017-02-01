@@ -15,7 +15,6 @@
 		<connection>scm:git:git://github.com/bpross-52n/release-test.git</connection>
 		<developerConnection>scm:git:ssh://git@github.com/bpross-52n/release-test.git</developerConnection>
 		<url>https://github.com/bpross-52n/release-test</url>
-      <tag>HEAD</tag>
   </scm>
     <distributionManagement>
         <repository>
