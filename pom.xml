@@ -19,12 +19,21 @@
     <distributionManagement>
         <repository>
             <id>n52-releases</id>
-            <url>https://52north.org/maven/repo/releases/</url>
+            <url>dav:https://52north.org/maven/repo/releases/</url>
         </repository>
         <snapshotRepository>
             <id>n52-snapshots</id>
-            <url>https://52north.org/maven/repo/snapshots/</url>
+            <url>dav:https://52north.org/maven/repo/snapshots</url>
         </snapshotRepository>
     </distributionManagement>
 	<description>52n-Release-Test</description>
+	<build>
+		<extensions>
+			<extension>
+				<groupId>org.apache.maven.wagon</groupId>
+				<artifactId>wagon-webdav-jackrabbit</artifactId>
+				<version>1.0-beta-7</version>
+			</extension>
+        </extensions>
+	</build>
 </project>
