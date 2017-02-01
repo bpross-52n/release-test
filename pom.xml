@@ -1,9 +1,9 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
     <parent>
-		<artifactId>52-North</artifactId>
+		<artifactId>parent</artifactId>
 		<groupId>org.n52</groupId>
-        <version>5.6.6</version>
+        <version>6</version>
     </parent>
 	<groupId>org.n52.wps</groupId>
 	<artifactId>52n-release-test</artifactId>
@@ -16,5 +16,15 @@
 		<developerConnection>scm:git:ssh://git@github.com/bpross-52n/release-test.git</developerConnection>
 		<url>https://github.com/bpross-52n/release-test</url>
   </scm>
+    <distributionManagement>
+        <repository>
+            <id>n52-releases</id>
+            <url>https://52north.org/maven/repo/releases/</url>
+        </repository>
+        <snapshotRepository>
+            <id>n52-snapshots</id>
+            <url>https://52north.org/maven/repo/snapshots/</url>
+        </snapshotRepository>
+    </distributionManagement>
 	<description>52n-Release-Test</description>
 </project>
